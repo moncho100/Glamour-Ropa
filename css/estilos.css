@@ -179,6 +179,11 @@ p{
     margin: 1px;
 }
 
+@media screen and (max-width: 480px){
+    h3{font-size: 8px;}
+    p{font-size: 5px;}
+}
+
 
 
 
