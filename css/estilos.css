@@ -237,7 +237,7 @@ textarea{
 
 /* Inicio de estilos de las media query*/
 @media screen and (max-width: 480px){
-    h3{font-size: 8px;}
+    h3{font-size: 7px;}
     p{font-size: 7px;}
 }
 /* Final de estilos de las media query */
